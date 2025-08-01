@@ -24,6 +24,7 @@ StaySphere is a full-featured travel listing and review application, similar to 
 - Data validation with Joi
 - MongoDB session storage with connect-mongo
 - Responsive UI with Bootstrap
+- ![](public/images/FeaturesChart.jpg)
 
 ## Images
 
